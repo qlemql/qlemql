@@ -1,7 +1,6 @@
 ### Hi My name is TaeHyun 👋
 
 
-- 🔭 I’m currently working on a portfolio.
 - 🌱 I’m currently learning JS, React JS
 
 
